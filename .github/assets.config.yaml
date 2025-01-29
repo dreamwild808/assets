@@ -1,4 +1,4 @@
-app:
+app:Trust wallet
   log_level: "debug"
 
 client_urls:
